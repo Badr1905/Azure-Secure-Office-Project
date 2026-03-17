@@ -10,7 +10,11 @@ In this phase, I established the "Security Baseline" for the organization.
 ### 1. Identity Management (Microsoft Entra ID)
 - Provisioned user identities for different departments (Sales, IT, Admin).
 - Implemented **Group-Based Access Control (GBAC)** to ensure scalable permission management.
+<img width="1920" height="1030" alt="Users - Microsoft Azure - Google Chrome 3_1_2026 12_17_46 AM" src="https://github.com/user-attachments/assets/c6fb2fcb-d078-49a7-ba56-8063556bad69" />
+<img width="1920" height="1030" alt="Users - Microsoft Azure - Google Chrome 3_1_2026 12_18_39 AM" src="https://github.com/user-attachments/assets/d96dc664-959f-4c82-bc88-82194037ce19" />
+<img width="1920" height="1030" alt="Users - Microsoft Azure - Google Chrome 3_1_2026 12_19_42 AM" src="https://github.com/user-attachments/assets/ca9bdc0c-97c3-4cf6-878b-901b13736504" />
 <img width="1920" height="1030" alt="Users - Microsoft Azure - Google Chrome 3_1_2026 12_19_59 AM" src="https://github.com/user-attachments/assets/7375658f-3765-4175-a5b3-91f05e231ddc" />
+
 
 
 ### 2. Virtual Networking & Security
