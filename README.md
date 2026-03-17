@@ -35,6 +35,14 @@ In this phase, I established the "Security Baseline" for the organization.
 <img width="1920" height="1030" alt="SRV-Workstation-01 - Microsoft Azure - Google Chrome 3_8_2026 2_38_38 PM" src="https://github.com/user-attachments/assets/1cb95d58-c3ac-461c-a3ed-dd6803b0259d" />
 <img width="1762" height="1023" alt="20 251 168 225 - Remote Desktop Connection 3_10_2026 1_40_03 PM" src="https://github.com/user-attachments/assets/b6e8c466-f3c5-40d4-b4d8-5be5a892523c" />
 
+### 4. Cost Governance & Optimization
+- Monitored daily consumption using **Azure Cost Management**.
+- Performed a **resource audit** to identify and decommission unused assets (Public IPs and Disks).
+- Ensured the project stayed within the **Azure for Students** $100 credit limit by practicing proper deallocation.
+- *
+
+<img width="1920" height="1030" alt="Cost Management_ badr bouarfa - Microsoft Azure - Google Chrome 3_17_2026 1_42_00 PM" src="https://github.com/user-attachments/assets/bf4496fe-1c0d-4891-8e3a-3e5f11ef8eb4" />
+
 ## Skills Demonstrated
 - **Cloud Administration:** Azure Portal, Resource Groups, Cost Management.
 - **Networking:** VNets, Subnets, Public IPs, NSGs.
