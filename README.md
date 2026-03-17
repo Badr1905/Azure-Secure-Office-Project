@@ -30,7 +30,7 @@ In this phase, I established the "Security Baseline" for the organization.
 
 
 ### 3. Compute Deployment
-- Provisioned a **Windows Server 2022** instance (Standard_B1s) within the secure subnet.
+- Provisioned a **Windows Server 2025** instance Standard D2s v3 (2 vcpus, 8 GiB memory) within the secure subnet.
 - Verified remote connectivity via **Remote Desktop Protocol (RDP)**.
 <img width="1920" height="1030" alt="SRV-Workstation-01 - Microsoft Azure - Google Chrome 3_8_2026 2_38_38 PM" src="https://github.com/user-attachments/assets/1cb95d58-c3ac-461c-a3ed-dd6803b0259d" />
 <img width="1762" height="1023" alt="20 251 168 225 - Remote Desktop Connection 3_10_2026 1_40_03 PM" src="https://github.com/user-attachments/assets/b6e8c466-f3c5-40d4-b4d8-5be5a892523c" />
