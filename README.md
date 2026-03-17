@@ -14,6 +14,8 @@ In this phase, I established the "Security Baseline" for the organization.
 <img width="1920" height="1030" alt="Users - Microsoft Azure - Google Chrome 3_1_2026 12_18_39 AM" src="https://github.com/user-attachments/assets/d96dc664-959f-4c82-bc88-82194037ce19" />
 <img width="1920" height="1030" alt="Users - Microsoft Azure - Google Chrome 3_1_2026 12_19_42 AM" src="https://github.com/user-attachments/assets/ca9bdc0c-97c3-4cf6-878b-901b13736504" />
 <img width="1920" height="1030" alt="Users - Microsoft Azure - Google Chrome 3_1_2026 12_19_59 AM" src="https://github.com/user-attachments/assets/7375658f-3765-4175-a5b3-91f05e231ddc" />
+<img width="1920" height="1030" alt="Groups - Microsoft Azure - Google Chrome 3_1_2026 3_27_33 PM" src="https://github.com/user-attachments/assets/3996673c-42d0-40d4-900f-c44065a717fe" />
+<img width="1920" height="1030" alt="Groups - Microsoft Azure - Google Chrome 3_1_2026 3_28_15 PM" src="https://github.com/user-attachments/assets/04328148-a7b5-4365-a16d-42d9eeb67d57" />
 
 
 
@@ -21,7 +23,11 @@ In this phase, I established the "Security Baseline" for the organization.
 - Designed a **segmented Virtual Network (VNet)** with dedicated frontend and backend subnets.
 - Deployed a **Network Security Group (NSG)** to act as a cloud firewall.
 - Configured **Inbound Security Rules** to permit RDP (3389) and HTTP (80) traffic while blocking unauthorized access.
-- *(images/03-nsg-rules.png)*
+<img width="1920" height="1030" alt="VNet-Morocco-HQ - Microsoft Azure - Google Chrome 3_5_2026 1_37_52 PM" src="https://github.com/user-attachments/assets/be57c8a2-f75c-4a80-8283-00f99960e0c8" />
+<img width="1920" height="1030" alt="VNet-Morocco-HQ - Microsoft Azure - Google Chrome 3_5_2026 1_38_04 PM" src="https://github.com/user-attachments/assets/e5ea68ff-8d30-4dc0-87d4-5c0357b6acff" />
+<img width="1920" height="1030" alt="NSG-Workstation-Security - Microsoft Azure - Google Chrome 3_5_2026 2_00_55 PM" src="https://github.com/user-attachments/assets/07053cf2-9223-4163-a5fd-596dec19a015" />
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/6e98bf07-2561-4915-843f-6d35c9cce41b" />
+
 
 ### 3. Compute Deployment
 - Provisioned a **Windows Server 2022** instance (Standard_B1s) within the secure subnet.
